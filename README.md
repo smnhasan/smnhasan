@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Mohammad Nayeem Hasan
-- 👀 I’m interested in research
-- 🌱 I’m currently learning GitHub
-- 💞️ I’m looking to collaborate on various research team
-- 📫 How to reach me nayeem5847@gmail.com
+<h1 align="center">Hi 👋, I'm Mohammad Nayeem Hasan</h1>
+<h3 align="center">📖A passionate Public Health Researcher from Bangladesh📖</h3>
+<h4 align="center">🤝Looking for collaboration in the field of Public Health research🤝</h4>
 
-<!---
-smnhasan/smnhasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smnhasan&color=dc143c" alt="hossainlab" /> </p>
