@@ -5,7 +5,6 @@
 - **Software Engineer (Machine Learning)**, [Nascenia](https://nascenia.com/)
 - **Ex Game Developer**, Qubitech
 - Graduate in B.Sc. in **Electrical & Computer Engineering**, <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Technology</a>
-- 🔬 Published researcher in **Deep Learning for Medical Imaging**
 - 💡 6+ years of **Competitive Programming** experience with 1500+ problems solved
 - Ask me about **NLP / Computer Vision / LLMs / RAG Systems / Game Development**
 - I'm looking to collaborate on **Machine Learning Research** and **AI-powered Applications**
@@ -35,7 +34,7 @@
 - 🧠 **Deep Learning**: Computer Vision, NLP, Multi-task Learning, and Medical Imaging
 - 🏆 **Competitive Programming**: Algorithms, data structures, and problem-solving enthusiast
 
-🔧 Tech Stack
+### 🔧 Tech Stack
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" width="30" height="30" title='Python'/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" alt="C++" width="30" height="30" title='C++'/>
