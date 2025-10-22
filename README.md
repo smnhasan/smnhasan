@@ -35,8 +35,7 @@
 - 🧠 **Deep Learning**: Computer Vision, NLP, Multi-task Learning, and Medical Imaging
 - 🏆 **Competitive Programming**: Algorithms, data structures, and problem-solving enthusiast
 
-### 🔧 Tech Stack
-
+🔧 Tech Stack
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" width="30" height="30" title='Python'/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" alt="C++" width="30" height="30" title='C++'/>
@@ -50,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="Docker" width="30" height="30" title='Docker'/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="Git" width="30" height="30" title='Git'/>
   &nbsp;  &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fastapi.svg" alt="FastAPI" width="30" height="30" title='FastAPI'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" alt="FastAPI" width="30" height="30" title='FastAPI'/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flask.svg" alt="Flask" width="30" height="30" title='Flask'/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="Node.js" width="30" height="30" title='Node.js'/>
   &nbsp;  &nbsp;
