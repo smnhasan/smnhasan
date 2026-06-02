@@ -1,82 +1,104 @@
-### Hey there! I'm S M Nahid Hasan! 👋
-<hr>
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=smnhasan&show_icons=true&theme=algolia&hide=contribs,prs,issues&show=prs_merged_percentage"/>
-
-- **Software Engineer (Machine Learning)**, [Nascenia](https://nascenia.com/)
-- **Ex Game Developer**, Qubitech
-- Graduate in B.Sc. in **Electrical & Computer Engineering**, <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Technology</a>
-- 💡 6+ years of **Competitive Programming** experience with 1500+ problems solved
-- Ask me about **NLP / Computer Vision / LLMs / RAG Systems / Game Development**
-- I'm looking to collaborate on **Machine Learning Research** and **AI-powered Applications**
-  <img align="right" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnhasan&layout=donut"/>
-  
-- 📫 How to reach me: 
-<p align="center">
-    <a href="https://linkedin.com/in/smnahidhasan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" title='LinkedIn'/>
-    </a>
-    <a href="https://github.com/smnhasan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="30" title='GitHub'/>
-    </a>
-    <a href="https://leetcode.com/crazy_dreamer" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Leetcode" height="30" width="30" title='Leetcode'/>
-    </a>
-    <a href="https://codeforces.com/profile/Crazy_Dreamer" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Codeforces" height="30" width="30" title='Codeforces'/>
-    </a>
-    <a href="mailto:smhasan.ruet.ece17@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="30" width="30" title='Email'/>
-    </a>
-</p>
-
-<hr>
-
-### 🚀 What I Do
-
-- 🤖 **LLM Engineering**: Finetuning, RAG systems, prompt engineering, and domain adaptation
-- 💬 **Conversational AI**: Building chatbots with RASA, stateful/stateless chat systems, and voice bots
-- 🎮 **Game Development**: 3D multiplayer games with Unity, C#, and real-time networking
-- 🧠 **Deep Learning**: Computer Vision, NLP, Multi-task Learning, and Medical Imaging
-- 🏆 **Competitive Programming**: Algorithms, data structures, and problem-solving enthusiast
-
-### 🔧 Tech Stack
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" width="30" height="30" title='Python'/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" alt="C++" width="30" height="30" title='C++'/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg" alt="C#" width="30" height="30" title='C#'/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="Javascript" width="30" height="30" title='Javascript'/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" alt="PHP" width="30" height="30" title='PHP'/>
-  &nbsp;  &nbsp; 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pytorch.svg" alt="PyTorch" width="30" height="30" title='PyTorch'/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg" alt="Tensorflow" width="30" height="30" title='Tensorflow'/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg" alt="Unity" width="30" height="30" title='Unity'/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="Docker" width="30" height="30" title='Docker'/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="Git" width="30" height="30" title='Git'/>
-  &nbsp;  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" alt="FastAPI" width="30" height="30" title='FastAPI'/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flask.svg" alt="Flask" width="30" height="30" title='Flask'/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="Node.js" width="30" height="30" title='Node.js'/>
-  &nbsp;  &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="MongoDB" width="30" height="30" title='MongoDB'/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="MySQL" width="30" height="30" title='MySQL'/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redis.svg" alt="Redis" width="30" height="30" title='Redis'/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firebase.svg" alt="Firebase" width="30" height="30" title='Firebase'/>
-</p>
-
-**AI/ML Tools**: Langchain, LlamaIndex, Ollama, RASA, RAGAS, Chromadb, Faiss, Pinecone
-
-<hr>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smnhasan&show_icons=true&theme=algolia" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smnhasan&theme=algolia" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smnhasan&layout=compact&theme=algolia" alt="Top Languages" width="48%"/>
-</p>
+# Hey there! I'm S M Nahid Hasan 👋
 
 <p align="left">
-<img align='right' src="https://komarev.com/ghpvc/?username=smnhasan" alt="Profile Views" /> 
+  <a href="https://linkedin.com/in/smnahidhasan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/smnhasan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/crazy_dreamer" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/Crazy_Dreamer" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="mailto:smhasan.ruet.ece17@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-⭐️ *Open to collaborations in ML Research, NLP, and AI-powered Applications*
+### 💻 Profile Summary
+
+- 🧠 **Software Engineer (Machine Learning)** at **[Nascenia](https://nascenia.com/)**
+- 🎮 **Ex-Game Developer** at Qubitech
+- 🎓 Graduate in **Electrical & Computer Engineering** from **[Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/)**
+- 🏆 **6+ years of Competitive Programming** experience with **1500+ problems solved**
+- 💬 Ask me about **NLP / Computer Vision / LLMs / RAG Systems / Game Development**
+- 🚀 I'm actively looking to collaborate on **Machine Learning Research** and **AI-powered Applications**
+
+---
+
+### 🚀 What I Do
+
+* **🤖 LLM Engineering:** Fine-tuning, RAG systems, prompt engineering, and domain adaptation.
+* **💬 Conversational AI:** Building sophisticated bots with RASA, stateful/stateless chat systems, and voice bots.
+* **🎮 Game Development:** 3D multiplayer game engineering with Unity, C#, and real-time networking.
+* **🧠 Deep Learning:** Computer Vision, NLP, Multi-task Learning, and Medical Imaging.
+* **🏆 Competitive Programming:** Solving complex algorithmic problems, optimizing data structures, and continuous learning.
+
+---
+
+### 🔧 Tech Stack & Tools
+
+#### 🌐 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="28"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" height="28"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" height="28"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="28"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" height="28"/>
+</p>
+
+#### 🤖 AI / ML / LLMs
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="28"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Tensorflow" height="28"/>
+  <img src="https://img.shields.io/badge/🛡️%20LangChain-🔗?style=flat-square&color=black" alt="LangChain" height="28"/>
+  <img src="https://img.shields.io/badge/🦙%20LlamaIndex-🗂️?style=flat-square&color=purple" alt="LlamaIndex" height="28"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" height="28"/>
+  <img src="https://img.shields.io/badge/Rasa-5A17EE?style=flat-square&logo=rasa&logoColor=white" alt="Rasa" height="28"/>
+</p>
+
+#### 🗄️ Vector DBs & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/ChromaDB-0052CC?style=flat-square" alt="ChromaDB" height="28"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" alt="Pinecone" height="28"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" height="28"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" height="28"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" height="28"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" height="28"/>
+</p>
+
+#### 🛠️ Databases & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" height="28"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="28"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" height="28"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" height="28"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="28"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="28"/>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=smnhasan&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=smnhasan&theme=algolia" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=smnhasan&layout=compact&theme=algolia" alt="Top Languages" width="48%"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=smnhasan&color=blue" alt="Profile Views" /> 
+  <br>
+  ⭐️ <i>Open to collaborations in ML Research, NLP, and AI-powered Applications!</i>
+</p>
