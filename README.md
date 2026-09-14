@@ -22,7 +22,8 @@
 
 ### 💻 Profile Summary
 
-- 🧠 **Software Engineer (Machine Learning)** at **[Nascenia](https://nascenia.com/)**
+- 🧠 **AI Engineer L3** at **[Revora](https://userevora.com/)**
+- 🧠 Former **Software Engineer (Machine Learning)** at **[Nascenia](https://nascenia.com/)**
 - 🎮 **Ex-Game Developer** at Qubitech
 - 🎓 Graduate in **Electrical & Computer Engineering** from **[Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/)**
 - 🏆 **6+ years of Competitive Programming** experience with **1500+ problems solved**
