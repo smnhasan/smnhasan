@@ -1,3 +1,9 @@
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+<source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+<img alt="smnhasan's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 # Hey there! I'm S M Nahid Hasan 👋
 
 <p align="left">
